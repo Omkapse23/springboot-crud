@@ -1,0 +1,5 @@
+com\demo\service\StudentService.class
+StudentController.class
+com\demo\SpringbootCrudApplication.class
+com\demo\repository\StudentRepository.class
+com\demo\model\Student.class
